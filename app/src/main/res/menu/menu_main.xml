@@ -14,7 +14,7 @@
         android:id="@+id/action_clear"
         android:icon="@mipmap/ic_clear"
         android:orderInCategory="100"
-        android:title="Desenhos"
+        android:title="Limpar"
         app:showAsAction="ifRoom" />
 
     <item
